@@ -64,7 +64,7 @@ Agile, Scrum, Sprint Planning, Onsite-Offshore Coordination
 
 --- 
 
-## 📈 GitHub Stats ![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavramteke&show_icons=true&theme=radwitter ##
+## 📈 GitHub Stats ![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavramteke&show_icons=true&theme=radwitter) 
 
 --- 
 
