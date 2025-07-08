@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Vaibhav Ramteke ### 🚀 Full Stack Developer | 🧠 Technical Lead | 📍 Pune, India 
+# 👋 Hi, I'm Vaibhav Ramteke 
+
+### 🚀 Full Stack Developer | 🧠 Technical Lead | 📍 Pune, India 
 
 With over 10 years of experience in building scalable, high-performance applications, I specialize in full stack development across Delphi, Elixir, RESTful APIs, and modern web technologies. I thrive in agile environments, lead cross-functional teams, and deliver impactful solutions in Healthcare and Membership domains. 
 
