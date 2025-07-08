@@ -1,72 +1,124 @@
-# 👋 Hi, I'm Vaibhav Ramteke 
+# 👋 Hi, I'm Vaibhav Ramteke
 
-### 🚀 Full Stack Developer | 🧠 Technical Lead | 📍 Pune, India 
+### 🚀 Full Stack Developer | 🔧 Systems Thinker | 🧠 AI Enthusiast | 🏥 Healthtech Explorer
 
-With over 10 years of experience in building scalable, high-performance applications, I specialize in full stack development across Delphi, Elixir, RESTful APIs, and modern web technologies. I thrive in agile environments, lead cross-functional teams, and deliver impactful solutions in Healthcare and Membership domains. 
+---
 
---- 
+Welcome to my digital workspace! I'm a Pune-based full stack engineer with over a decade of experience building robust, high-performance software systems. I love turning complex business needs into elegant technical solutions — and mentoring teams along the way.
 
-## 🛠️ Tech Stack 
+I’ve led development for mission-critical healthcare platforms, modernized legacy systems with microservices, and even experimented with generative AI to solve real-world problems.
 
-**Languages & Frameworks:** 
-Delphi (6, XE2, 10.1), Elixir, Python, Java, .NET (basic), HTML, CSS, JavaScript 
+---
 
-**Databases:** 
-SQL Server, Oracle, Firebird 
+## 💡 What Drives Me
 
-**Cloud & DevOps:** 
-Azure (basic), Jenkins, CI/CD, DevOps pipelines 
+- **Craftsmanship in Code**  
+  Clean, scalable, and efficient code is my canvas. I value simplicity and sustainability in software architecture.
 
-**Tools & Platforms:** 
-Git, SVN, ServiceNow, Postman, Visual Studio 
+- **Human-Centered Tech**  
+  From healthcare to membership management systems, I enjoy building tools that genuinely impact lives.
 
-**Architecture:** 
-RESTful APIs, Microservices, Scalable System Design 
+- **Learning & Mentorship**  
+  I’ve mentored multiple developers, run team appraisals, and championed continuous growth through knowledge-sharing and innovation.
 
-**Methodologies:** 
-Agile, Scrum, Sprint Planning, Onsite-Offshore Coordination 
+---
 
---- 
+## 🧩 Tech I'm Fluent In
 
-## 💼 Professional Experience ### 
+💻 Languages & Frameworks:
+Delphi (6, XE2, 10.1), Elixir, Python, Java, .NET (basic), HTML, CSS, JavaScript
 
-🔹 CitiusTech – Technical Lead (Mar 2022 – Present) 
-- Led full stack development for Trisus Chargemaster using Delphi, Elixir, and .NET.
-- Improved dashboard usability and compliance tracking, boosting revenue identification by 20%.
-- Managed agile ceremonies and mentored team members, resulting in promotions and high client satisfaction.
-- Contributed to Azure DevOps pipelines and CI/CD workflows.
+🗃️ Databases:
+SQL Server, Oracle, Firebird
 
-### 🔹 Hexaware Technologies – Senior Software Engineer (Feb 2020 – Mar 2022) 
-- Developed scalable Delphi applications integrated with Java-based RESTful APIs.
-- Modernized legacy systems and led frontend-backend integration.
-- Delivered seamless insurance system integrations and mentored junior developers.
+☁️ Cloud & DevOps:
+Azure (basic), Jenkins, CI/CD, DevOps pipelines
 
-### 🔹 Nihilent Ltd – Senior Software Engineer & Onsite Coordinator (Dec 2016 – Nov 2019) 
-- Coordinated onsite operations in Cape Town for Virgin Active South Africa.
-- Managed sprints, escalations, and backend module development.
+🛠️ Tools & Platforms:
+Git, SVN, ServiceNow, Postman, Visual Studio
 
-### 🔹 Novatech Software – Associate Software Engineer (Jun 2014 – Dec 2016) 
-- Built REST APIs for a requirement management tool used by 500+ global clients.
+📐 Architecture:
+RESTful APIs, Microservices, Scalable System Design
 
---- 
+🔁 Methodologies:
+Agile, Scrum, Sprint Planning, Onsite-Offshore Coordination
 
-## 🏆 Achievements 
-- 🥇 **Winner – ThinkGen Hackathon (Gen-AI), 2024**
-- 🌟 **Rewards & Recognition – CitiusTech, 2023**
-- 🎤 **Winner – HMT-2 Speakers Competition, 2022**
+---
 
---- 
+📌 Notable Projects
 
-## 🌍 Onsite Experience 
-**Client:** Virgin Active South Africa 
-**Location:** Cape Town, South Africa 
-**Duration:** Dec 2017 – Jun 2019 
+🧾 Trisus Chargemaster – Automated Chargemaster Management Platform
 
---- 
+Role: Technical Lead | Tech: Delphi, Elixir, .NET | Domain: Healthcare
 
-## 📈 GitHub Stats 
-![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavramteke&show_icons=true&theme=radwitter) 
+Enhanced dashboard usability and compliance tracking → Boosted revenue identification efficiency by 20%.
 
---- 
+Led 8-member agile team with consistent 95% sprint goal achievement.
 
-> “Clean architecture and collaboration are the keys to scalable innovation.”
+Improved deployment pipelines using Azure DevOps.
+
+
+🏋️‍♂️ Virgin Active South Africa – Membership Management System
+
+Role: Full Stack Developer & Technical Lead | Tech: Delphi, Java, HTML/CSS
+
+Integrated insurance and access control systems seamlessly.
+
+Modernized legacy apps using API-first architecture.
+
+Spearheaded incident/change workflows through ServiceNow and Azure.
+
+---
+
+🏆 Highlights & Achievements
+
+🥇 Winner – ThinkGen Hackathon (2024)
+Built a Generative AI solution that topped the leaderboard.
+
+🗣️ Champion Speaker – HMT-2 (2022)
+Delivered an award-winning talk on the future of medical innovation.
+
+🌟 Rewards & Recognition – CitiusTech (2023)
+Recognized for delivery excellence, leadership, and mentorship.
+
+🌍 Onsite Coordinator – Cape Town (2017–2019)
+Bridged cross-continental teams and delivered high-stakes projects on-site.
+
+---
+
+🧪 Currently Experimenting With
+
+🤖 AI Agents for Personal Health
+Creating autonomous tools for sleep, nutrition, and mental wellness.
+
+🧠 LangChain + Python
+Building LLM-integrated microservices for practical AI solutions.
+
+📂 Open-Source Components
+Sharing tools that I’ve built across projects, cleaned and ready to help others.
+
+---
+
+💬 Fun Fact
+
+Despite my love for low-level backend systems, I’m also fascinated by the elegance of AI-driven user experiences. Marrying the two is my current obsession!
+
+
+---
+
+📫 Let's Connect
+
+📧 vaibhavramteke921@gmail.com
+
+💼 LinkedIn
+
+🌍 Pune, India
+
+
+
+---
+
+> “Great code isn’t just written — it’s designed, tested, refactored, and understood.”
+
+Thanks for visiting my GitHub!
+
