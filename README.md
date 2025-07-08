@@ -33,19 +33,35 @@ Agile, Scrum, Sprint Planning, Onsite-Offshore Coordination
 🔹 CitiusTech – Technical Lead (Mar 2022 – Present) 
 - Led full stack development for Trisus Chargemaster using Delphi, Elixir, and .NET.
 - Improved dashboard usability and compliance tracking, boosting revenue identification by 20%.
-- Managed agile ceremonies and mentored team members, resulting in promotions and high client satisfaction. - Contributed to Azure DevOps pipelines and CI/CD workflows. ### 🔹 Hexaware Technologies – Senior Software Engineer (Feb 2020 – Mar 2022) - Developed scalable Delphi applications integrated with Java-based RESTful APIs. - Modernized legacy systems and led frontend-backend integration. - Delivered seamless insurance system integrations and mentored junior developers. ### 🔹 Nihilent Ltd – Senior Software Engineer & Onsite Coordinator (Dec 2016 – Nov 2019) - Coordinated onsite operations in Cape Town for Virgin Active South Africa. - Managed sprints, escalations, and backend module development. ### 🔹 Novatech Software – Associate Software Engineer (Jun 2014 – Dec 2016) - Built REST APIs for a requirement management tool used by 500+ global clients. --- ## 🏆 Achievements - 🥇 **Winner – ThinkGen Hackathon (Gen-AI), 2024** - 🌟 **Rewards & Recognition – CitiusTech, 2023** - 🎤 **Winner – HMT-2 Speakers Competition, 2022** --- ## 🌍 Onsite Experience **Client:** Virgin Active South Africa **Location:** Cape Town, South Africa **Duration:** Dec 2017 – Jun 2019 --- ## 📈 GitHub Stats ![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavramteke&show_icons=true&theme=radwitter --- > “Clean architecture and collaboration are the keys to scalable innovation.”## Hi there 👋
+- Managed agile ceremonies and mentored team members, resulting in promotions and high client satisfaction.
+- Contributed to Azure DevOps pipelines and CI/CD workflows.
 
-<!--
-**Vaibhav921/Vaibhav921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 Hexaware Technologies – Senior Software Engineer (Feb 2020 – Mar 2022) 
+- Developed scalable Delphi applications integrated with Java-based RESTful APIs.
+- Modernized legacy systems and led frontend-backend integration.
+- Delivered seamless insurance system integrations and mentored junior developers.
 
-Here are some ideas to get you started:
+### 🔹 Nihilent Ltd – Senior Software Engineer & Onsite Coordinator (Dec 2016 – Nov 2019) 
+- Coordinated onsite operations in Cape Town for Virgin Active South Africa.
+- Managed sprints, escalations, and backend module development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Novatech Software – Associate Software Engineer (Jun 2014 – Dec 2016) 
+- Built REST APIs for a requirement management tool used by 500+ global clients.
+
+--- 
+
+## 🏆 Achievements 
+- 🥇 **Winner – ThinkGen Hackathon (Gen-AI), 2024**
+- 🌟 **Rewards & Recognition – CitiusTech, 2023**
+- 🎤 **Winner – HMT-2 Speakers Competition, 2022**
+
+--- 
+
+## 🌍 Onsite Experience 
+**Client:** Virgin Active South Africa 
+**Location:** Cape Town, South Africa 
+**Duration:** Dec 2017 – Jun 2019 
+
+--- 
+
+## 📈 GitHub Stats ![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavramteke&show_icons=true&theme=radwitter --- > “Clean architecture and collaboration are the keys to scalable innovation.”##
